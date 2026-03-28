@@ -999,7 +999,7 @@ class _LoginState extends State<Login> with TickerProviderStateMixin {
                                       ),
                                     ),
 
-                                    if (otpSent == true)
+                                    if (otpSent == true && signIn == 0)
                                       Column(
                                         children: [
                                           SizedBox(height: media.width * 0.05),

@@ -11,7 +11,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Zippe Driver</string>
+	<string>Zippe Partner</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -38,7 +38,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>encoded app id from firebase</string>
+				<string>com.googleusercontent.apps.379340676712-eed0dq309305dk50gi3o54b4n29a3k42</string>
 			</array>
 		</dict>
 	</array>
